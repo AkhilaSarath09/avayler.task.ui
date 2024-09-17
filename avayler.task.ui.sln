@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "avayler.task.ui", "avayler.task.ui\avayler.task.ui.csproj", "{E4BC8D96-EC36-4926-AC6F-B533D7A52E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "avayler.task.lib", "avayler.task.lib\avayler.task.lib.csproj", "{5BFA28FB-0AEF-48C4-AB38-23D0AA081E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4BC8D96-EC36-4926-AC6F-B533D7A52E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BC8D96-EC36-4926-AC6F-B533D7A52E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BC8D96-EC36-4926-AC6F-B533D7A52E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BC8D96-EC36-4926-AC6F-B533D7A52E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFA28FB-0AEF-48C4-AB38-23D0AA081E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFA28FB-0AEF-48C4-AB38-23D0AA081E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFA28FB-0AEF-48C4-AB38-23D0AA081E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFA28FB-0AEF-48C4-AB38-23D0AA081E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9895AE91-84B3-4347-819F-18316509CD3F}
+	EndGlobalSection
+EndGlobal
